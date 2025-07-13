@@ -60,7 +60,7 @@ function Banner() {
                   <div className="offset-md-6 col-md-6 mb_banner_light">
                     <img
                       src={slide.logo}
-                      alt="Logo"
+                      alt="pandora"
                       className="mb-3 mx-auto"
                       style={{ maxHeight: "50px" }}
                     />

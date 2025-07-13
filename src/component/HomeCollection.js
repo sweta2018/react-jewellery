@@ -27,7 +27,7 @@ function HomeCollection() {
                 
                     <div className="col-md-6 col-lg-6 mt-0" data-aos="fade-up">
                         <div className="collection-card">
-                        <img src="banner3.png" alt="Rings"/>
+                        <img src="banner3.png" alt="Rings" />
                         
                         </div>
                     </div>
@@ -37,7 +37,9 @@ function HomeCollection() {
                         <div>
                         <h3 className="collection-heading">A Collection for you</h3>
                         <p className="collection-text">Discover how diverse jewellery design can be and choose the one that best expresses your unique style.</p>
-                        <a href="#" className="see-all-btn">See all collections →</a>
+                        
+                        <Link className="see-all-btn" to="/collections">See all collections →
+                        </Link>
                         </div>
                     </div>
 

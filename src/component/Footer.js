@@ -7,7 +7,7 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="footer-col logo-col col-md-4">
-                    <h2><img src="/logo-jewel.png" className="img-fluid" /></h2>
+                    <h2><img src="/logo-jewel.png" className="img-fluid" alt='pandora'/></h2>
                     <p>Dive into the world of luxury and discover exceptionally elaborate, full of shine and splendor gold jewellery with diamonds</p>
                     <div className="subscribe-box">
                         <input type="email" placeholder="youremail@gmail.com" />

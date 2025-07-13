@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import {  useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
 
 function Checkout() {
   const cart = useSelector(state => state.cart);
-  const dispatch = useDispatch();
+  // const dispatch = useDispatch();
   const navigate = useNavigate();
 
   const [formData, setFormData] = useState({
@@ -116,6 +116,7 @@ const validateForm = () => {
                         id="state"
                         value={formData.state}
                         onChange={handleChange}
+                        style={{padding:'16px 12px 8px'}}
                       >
                         <option value="" disabled hidden>Select State</option>
                         <option value="California">California</option>

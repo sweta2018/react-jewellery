@@ -20,7 +20,7 @@ function Trust() {
                 </div>
                 </div>
                 <div className="trust-item">
-                <img src="headset-solid.svg"/>
+                <img src="headset-solid.svg" alt='support'/>
                 <div>
                     <h4>Support 24/7</h4>
                     <p>24/7 Support, Always Here Just For You.</p>
