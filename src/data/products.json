@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Fluid Vine Gold Bracelet",
+    "price": 1000,
+    "cutOffPrice": 1500,
+    "description": "Keep it light and luxe with this 22 Karat yellow gold Bracelet styled in airy gold links shaped like openwork leaves.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 5,
+    "sold": 520,
+    "rating": 4.5,
+    "category": "Bracelets",
+    "image": "../bracelet1.png",
+    "Occasions": "Bridal",
+    "images": [
+      "../brac1.jpg",
+      "../brac2.jpg",
+      "../brac3.jpg",
+      "../brac4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dual Toned Gold Bracelet",
+    "price": 2000,
+    "cutOffPrice": 2500,
+    "description": "Wrap elegance around your wrist with this dual toned bracelet crafted in 22 Karat Yellow Gold with a Rhodium finish.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 10,
+    "sold": 380,
+    "rating": 4.2,
+    "category": "Bracelets",
+    "image": "../bracelet2.png",
+    "Occasions": "Ethinic",
+    "images": [
+      "../brac1.jpg",
+      "../brac2.jpg",
+      "../brac3.jpg",
+      "../brac4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Timeless Fancy Diamond Bangle",
+    "price": 2000,
+    "cutOffPrice": 2500,
+    "description": "This gorgeous pair is one for minimalists. Crafted in 18 karat yellow gold, studded with diamonds.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 8,
+    "sold": 210,
+    "rating": 4.0,
+    "category": "Bangles",
+    "Occasions": "Bridal",
+    "image": "../bangle1.png",
+    "images": [
+      "../bang1.jpg",
+      "../bang2.jpg",
+      "../bang3.jpg",
+      "../bang4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gleaming Lotus Diamond Bangle",
+    "price": 3000,
+    "cutOffPrice": 3500,
+    "description": "Craft an everlasting impression with this 18 Karat rose gold Bangle, elegantly adorned with a unique circular real Diamond motif.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 10,
+    "sold": 210,
+    "rating": 4.0,
+    "category": "Bangles",
+    "Occasions": "Ethinic",
+    "image": "../bangle2.png",
+    "images": [
+      "../bang1.jpg",
+      "../bang2.jpg",
+      "../bang3.jpg",
+      "../bang4.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Glimmer Trail Gold Chain",
+    "price": 4000,
+    "cutOffPrice": 4500,
+    "description": "Dainty meets dazzling. This 18 Karat yellow gold Chain features textured beads that catch the light with every turn.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 10,
+    "sold": 210,
+    "rating": 4.0,
+    "category": "Chains",
+    "Occasions": "Bridal",
+    "image": "../chain1.png",
+    "images": [
+      "../chain1.jpg",
+      "../chain2.jpg",
+      "../chain3.jpg",
+      "../chain4.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Classic Cable Gold Chain",
+    "price": 4000,
+    "cutOffPrice": 4500,
+    "description": "A Simple Chain in 18 Karat Yellow Gold",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 10,
+    "sold": 210,
+    "rating": 4.0,
+    "category": "Chains",
+    "Occasions": "Bridal",
+    "image": "../chain2.png",
+    "images": [
+      "../chain1.jpg",
+      "../chain2.jpg",
+      "../chain3.jpg",
+      "../chain4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Girlish Star Shaped Gold Stud Earrings",
+    "price": 5000,
+    "cutOffPrice": 5500,
+    "description": "Shining Star Shape Stud Earrings crafted in 22 Karat Yellow Gold for a radiating child's casual style statement.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 10,
+    "sold": 210,
+    "rating": 4.0,
+    "category": "Earrings",
+    "Occasions": "Ethinic",
+    "image": "../earring1.png",
+    "images": [
+      "../ear1.jpg",
+      "../ear2.jpg",
+      "../ear3.jpg",
+      "../ear4.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Breathtaking Stone Diamond Stud",
+    "price": 5000,
+    "cutOffPrice": 5500,
+    "description": "Add shining excellence to your children's Modern Wear look with these Onyx Stone Diamond Stud Earrings. Make heads turn and feel ethereal.",
+    "shipping": "Ships within 2-4 business days. Returns accepted within 14 days of delivery. Free shipping on orders above ₹2000.",
+    "inStock": 10,
+    "sold": 210,
+    "rating": 4.0,
+    "category": "Earrings",
+    "Occasions": "Bridal",
+    "image": "../earring2.png",
+    "images": [
+      "../ear1.jpg",
+      "../ear2.jpg",
+      "../ear3.jpg",
+      "../ear4.jpg"
+    ]
+  }
+]

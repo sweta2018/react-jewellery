@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Samantha William",
+    "designation": "Valued Client",
+    "photo": "/test1.png",
+    "message": "The best kind of fashion comes with joy",
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Jonathan Hope",
+    "designation": "Valued Client",
+    "photo": "/test2.png",
+    "message": "Discover the best way to express yourself",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": " Sara Müller",
+    "designation": "Valued Client",
+    "photo": "/test3.png",
+    "message": "The designs are so unique and elegant. Perfect for weddings and special occasions!",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "name": "Mary Hilll",
+    "designation": "Valued Client",
+    "photo": "/testi4.png",
+    "message": "I'm impressed with the craftsmanship and the packaging. It made for a perfect gift!",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Emily Robinson",
+    "designation": "Marketing Executive",
+    "photo": "/testi5.png",
+    "message": "Exquisite Design & Global Delivery!",
+    "rating": 4
+  }
+]
