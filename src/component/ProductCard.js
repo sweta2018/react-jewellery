@@ -92,7 +92,9 @@ const ProductCard = ({ products }) => {
             );
           })}
         </Swiper>
+         <Link to="/collections"> <img src='btm-banner.png' className='img-fluid mt-4' alt='offer banner'/></Link>
       </div>
+    
     </section>
   );
 };

@@ -82,8 +82,9 @@ const Collections = () => {
   }
 
   return (
-    <div className="container my-5">
-      <h2 className="text-center mb-4 section-title">Shop Collections</h2>
+    <div className="container my-1">
+      <img src='banner-coll 1.png' className='img-fluid mb-5' />
+      <h2 className="text-center mb-4 section-title">Our Collections</h2>
       <div className="row">
         <div className="d-flex justify-content-between align-items-center mb-3">
           <button className="btn btn-outline-dark" type="button" data-bs-toggle="collapse" data-bs-target="#filterOptions">
