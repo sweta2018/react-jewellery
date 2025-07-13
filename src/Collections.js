@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useMemo } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchProducts } from './features/product/productSlice';
 import { useSearchParams, Link } from 'react-router-dom';
@@ -83,7 +83,7 @@ const Collections = () => {
 
   return (
     <div className="container my-1">
-      <img src='banner-coll 1.png' className='img-fluid mb-5' />
+      <img src='banner-coll 1.png' className='img-fluid mb-5' alt='collection banner'/>
       <h2 className="text-center mb-4 section-title">Our Collections</h2>
       <div className="row">
         <div className="d-flex justify-content-between align-items-center mb-3">
