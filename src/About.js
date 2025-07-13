@@ -51,21 +51,21 @@ function About() {
                     <div className="row">
                       <div className="col-md-6">
                         <div className="icon-box">
-                          <div className="icon-circle"><img src="abt1.png" alt='icon1'/></div>
+                          <div className="icon-circle"><img src="abt1.png" alt='custom jewellery'/></div>
                           <div className="icon-text">100% Custom-Made Jewelry</div>
                         </div>
                         <div className="icon-box">
-                          <div className="icon-circle"><img src="abt2.png" alt='icon2'/></div>
+                          <div className="icon-circle"><img src="abt2.png" alt='Diamonds'/></div>
                           <div className="icon-text">Certified Diamonds</div>
                         </div>
                       </div>
                       <div className="col-md-6">
                         <div className="icon-box">
-                          <div className="icon-circle"><img src="abt3.png" alt='icon3'/></div>
+                          <div className="icon-circle"><img src="abt3.png" alt='Quality'/></div>
                           <div className="icon-text">Internal Quality Tested</div>
                         </div>
                         <div className="icon-box">
-                          <div className="icon-circle"><img src="abt4.png" alt='icon4'/></div>
+                          <div className="icon-circle"><img src="abt4.png" alt='Purity'/></div>
                           <div className="icon-text">Guarantee For Gold Purity</div>
                         </div>
                       </div>

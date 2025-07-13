@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -52,16 +53,16 @@ function Contact() {
               </div>
               <div className="mb-4">
                 <div className="contact-label">Email</div>
-                <a href="mailto:info@example.com">info@example.com</a><br />
-                <a href="mailto:support@example.com">support@example.com</a>
+                <Link to="mailto:info@example.com">info@example.com</Link><br />
+                <Link to="mailto:support@example.com">support@example.com</Link>
               </div>
               <div className="mb-4">
                 <div className="contact-label">Social</div>
                 <div className="social-icons d-flex">
-                  <a href="#"><i className="fab fa-facebook-f"></i></a>
-                  <a href="#"><i className="fab fa-twitter"></i></a>
-                  <a href="#"><i className="fab fa-pinterest-p"></i></a>
-                  <a href="#"><i className="fab fa-instagram"></i></a>
+                  <Link><i className="fab fa-facebook-f"></i></Link>
+                  <Link><i className="fab fa-twitter"></i></Link>
+                  <Link><i className="fab fa-pinterest-p"></i></Link>
+                  <Link><i className="fab fa-instagram"></i></Link>
                 </div>
               </div>
             </div>
